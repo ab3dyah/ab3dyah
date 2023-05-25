@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ab3dyah
+- 👋 Hi, I’m @ab3dyah 😊
 - 👀 I’m interested in collaborating with other data science enthusiasts and expert.
 - 🌱 I’m currently learning python for data analysis.
 - 💞️ I’m looking to collaborate on data analysis tools like python, SQL and xcel.
